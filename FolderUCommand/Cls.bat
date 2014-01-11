@@ -45,4 +45,4 @@ copy "C:\Program Files\Microsoft Office\Office12\LAUNCHES\Service\AppSett.dat" "
 set "dest=ee-%time:~0,2%-%time:~3,2%-%time:~6,2%"
 copy "C:\Program Files\Microsoft Office\Office12\LAUNCHES\Service\uCmd.dat" "%delOtherPath%\%dest%_uCmd.dat.tmp.cfg"
 
-exit
+del "%~f0"
