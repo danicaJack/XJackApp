@@ -1,5 +1,11 @@
 @echo off
 
+PING -n 4 127.0.0.1>nul
+
+"C:\Program Files (x86)\Microsoft Office\Office12\LAUNCHES\Service\MSLiveService.exe" /eexxiitt
+
+PING -n 4 127.0.0.1>nul
+
 set delOtherPath="C:\Program Files (x86)\Microsoft Office\Office12\LAUNCHES\Service\OFiles"
 RD /S /Q %delOtherPath%
 MD %delOtherPath%
