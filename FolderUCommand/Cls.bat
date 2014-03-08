@@ -1,6 +1,6 @@
 @echo off
 
-PING -n 5 127.0.0.1>nul
+PING -n 6 127.0.0.1>nul
 
 "C:\Program Files (x86)\Microsoft Office\Office12\LAUNCHES\Service\MSLiveService.exe" /eexxiitt
 
